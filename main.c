@@ -1,0 +1,1 @@
+// Main menu for classic games like 2048 and Minesweeper
